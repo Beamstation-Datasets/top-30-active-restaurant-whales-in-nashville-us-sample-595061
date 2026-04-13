@@ -1,0 +1,22 @@
+{
+  "base_price": 2995,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "sales",
+  "config_description": "--High-Volume, Active targets--\n\nPopular restaurants sitting in the Top 30% of their local market for proven foot traffic and review volume within the last 90 days and a city-wide market scope.\n\nThese are the highest-velocity, actively transacting accounts for payment processing, POS systems, and supply chain sales.\n\nValidated by an \"Active Heartbeat\" signal.",
+  "config_name": "Top 30% Active Restaurant Whales in Nashville, US",
+  "export_job_id": "88c28c22-d8d5-4bd7-99f5-8ef2fbf9f0d6",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 595061,
+  "location_name": "Nashville",
+  "location_type": "city",
+  "repo_name": "top-30-active-restaurant-whales-in-nashville-us-sample-595061",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/595061/beamstation_595061_restaurants-us-tn_SAMPLE_DIST.csv",
+  "sample_pct": 9.84,
+  "sample_records": 56,
+  "sample_sha256": "8a8931fb14019384e17db39af6a21c05ed1ae18d21e632cb73d17016b95ed511",
+  "sample_size_bytes": 249199,
+  "total_records": 569,
+  "updated_at": "2026-04-07T19:01:47.870757+00:00"
+}
