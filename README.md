@@ -1,6 +1,6 @@
 # Top 30% Active Restaurant Whales in Nashville, US
 
-> Free BeamStation sample export with 56 rows and masked direct-contact fields.
+> Free BeamStation sample export with 53 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `595061` |
 | Location | Nashville |
 | Category | Restaurants |
-| Full dataset size | 569 records |
-| Free sample size | 56 records (9.84%) |
-| Last export | 2026-04-07T19:01:47.870757+00:00 |
+| Full dataset size | 535 records |
+| Free sample size | 53 records (9.91%) |
+| Last export | 2026-04-15T00:09:25.171432+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-30-active-restaurant-whales-in-nashville-us-sample-595061/releases/download/sample-latest/beamstation_595061_restaurants-us-tn_SAMPLE_DIST.csv) |
 
 ## What is in this sample
