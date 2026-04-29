@@ -1,12 +1,12 @@
 {
-  "export_job_id": "454c20cf-551c-41ad-83d6-83e3d1318d31",
+  "export_job_id": "792aeddd-ff0b-4402-8f39-871500fc12c3",
   "id_short": 595061,
-  "published_at": "2026-04-22T07:42:54Z",
+  "published_at": "2026-04-29T07:46:35Z",
   "repo_name": "top-30-active-restaurant-whales-in-nashville-us-sample-595061",
   "sample_asset_name": "beamstation_595061_restaurants-us-tn_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/595061/beamstation_595061_restaurants-us-tn_SAMPLE_DIST.csv",
-  "sample_records": 77,
-  "sample_sha256": "618cc9b1f28b155d9a16b724c643b9b78176be2c728e22df00798b900ab5950a",
-  "sample_size_bytes": 338379,
-  "total_records": 772
+  "sample_records": 13,
+  "sample_sha256": "757936c0b5ffa07cb7fa915c6aeedac87ea6426ccd142dd68947aeee1100a584",
+  "sample_size_bytes": 68081,
+  "total_records": 131
 }
